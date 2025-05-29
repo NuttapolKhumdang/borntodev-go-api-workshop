@@ -31,7 +31,7 @@ var Worker struct {
 ### Clone the repository
 
 ```bash
-git clone https://github.com/NuttapolKhumdang/borntodev-go-api-workshop.git
+git clone https://github.com/NuttapolKhumdang/workshop-basic-go-api.git
 cd borntodev-go-api-workshop
 ```
 
