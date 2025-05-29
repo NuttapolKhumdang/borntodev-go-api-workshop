@@ -18,7 +18,7 @@ Thanks to [BorntoDev](https://www.youtube.com/watch?v=fjEB75Xotxc) for providing
 This project is a simple API to manage `Worker` records, using `SQLite3` as the database to store information:
 
 ```go
-var Worker struct {
+type Worker struct {
     Id      int
     Name    string
     Email   string
