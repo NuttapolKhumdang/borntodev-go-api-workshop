@@ -48,7 +48,7 @@ The server will be running at: `http://localhost:8080`
 ## Project Structure
 
 ```txt
-borntodev-go-api-workshop/
+workshop-basic-go-api/
 │
 ├── main.go          # Entry point of the application
 ├── handlers.go      # Functions to handle API requests
